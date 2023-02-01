@@ -1,0 +1,14 @@
+.sliderContainer {
+  height: 100vh;
+}
+.sliderContainer .milad {
+  height: 100% !important;
+}
+.sliderContainer .milad .swiper-wrapper {
+  height: 100vh !important;
+}
+.sliderContainer .milad .swiper-wrapper .swiper-slide {
+  height: 100vh !important;
+}
+.sliderContainer .thumb {
+}
